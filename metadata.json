@@ -1,0 +1,9 @@
+
+{
+  "name": "I'M Rx | 🕷",
+  "description": "Hybrid AI-Designer & Full Stack Developer. High-end Elixir/Python technical development combined with rapid, casino-grade AI design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
